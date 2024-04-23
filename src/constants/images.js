@@ -1,5 +1,5 @@
-export const boy = require('../assets/images/boy.jpg')
+export const check = require('../assets/icons/check.png')
 
 export default {
-    boy
+    check,
 }
